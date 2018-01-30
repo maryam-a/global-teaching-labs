@@ -1,5 +1,5 @@
 # Planetary/ Satellite Orbit Simulation
-Activity for 2n Batxillerat Physics | MIT MIST Global Teaching Labs Spain
+Activity for 2n Batxillerat Physics | MIT MISTI Global Teaching Labs Spain
 
 1. Before beginning this activity, please ensure that Python 3 is already installed on your computer. To do this, open a Terminal window and type `python --version`. 
 
